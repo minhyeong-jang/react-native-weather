@@ -1,7 +1,5 @@
 # react-native-weather
-React Native - Weather with nomadcoders
-
-> Lecture : [nomadcoders](https://academy.nomadcoders.co/p/fucking-react-native-apps?ref=map)
+React Native - Weather with [nomadcoders](https://academy.nomadcoders.co/p/fucking-react-native-apps?ref=map)
 
 ## 1. React Native & Expo 특징
 
